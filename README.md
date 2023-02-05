@@ -4,8 +4,8 @@ This is a graphical user interface for downloading firmwares for your Galaxy Bud
 
 ### How to use
 
-Go to [website](https://xx.com) and select the firmware you want to download. Then click on the
-download button, and the firmware will be downloaded.
+Go to [website](https://budsfirm.onrender.com) and select the firmware you want to download. Then
+click on the download button, and the firmware will be downloaded.
 
 ## Why i decide to use date to sort the firmware
 
